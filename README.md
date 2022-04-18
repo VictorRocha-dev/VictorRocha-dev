@@ -9,9 +9,10 @@
 - ⚡ Fun fact: Sou goleiro de futsal, mas minha paixão é programação
 
 <div align="center">
-  <a href="https://github.com/VictorRocha-dev">
-  <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=VictorRocha-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"   width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRocha-dev&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://github.com/VictoRocha-dev">
+    <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorRocha-dev&theme=dracula&show_icons=true&count_private=true" alt="">
+  <img width="400em"  height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorRocha-dev&layout=compact&theme=dracula&langs_count=8" alt="">
+ </a>
 </div>
 
   <div style="display: inline_block"><br>
