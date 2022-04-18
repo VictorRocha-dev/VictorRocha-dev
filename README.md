@@ -5,6 +5,7 @@
 - 🔭 Eu ainda não trabalho na área de programação, mas estou a procura de oportunidades
 - 🌱 Eu estou aprendendo Node.JS, MongoDB , SQL , PHP 
 - 📋 Eu possuo experiencia com projetos HTML , CSS e JS com projetos pessoais e escolares
+- 🏫 Curso Analise e Desenvolvimento de Sistemas na ETEC Jorge Street - SCS
 - ⚡ Fun fact: Sou goleiro de futsal, mas minha paixão é programação
 
 <div align="center">
