@@ -6,7 +6,6 @@
 - 🌱 Eu estou aprendendo Node.JS, MYSQL , PHP , React
 - 📋 Eu possuo experiencia com projetos HTML , CSS e JS com projetos pessoais e escolares
 - 🏫 Curso Analise e Desenvolvimento de Sistemas na ETEC Jorge Street - SCS
-- ⚡ Fun fact: Sou goleiro de futsal, mas minha paixão é programação
 
 <div align="center">
  <a href="https://github.com/VictorRocha-dev">
