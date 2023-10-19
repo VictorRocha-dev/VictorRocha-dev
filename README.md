@@ -1,11 +1,8 @@
 ## Olá! Eu sou Victor Souza Rocha 👋
 
 
-
-- 🔭 Eu ainda não trabalho na área de programação, mas estou a procura de oportunidades
-- 🌱 Eu estou aprendendo Node.JS, MYSQL , PHP , React
-- 📋 Eu possuo experiencia com projetos HTML , CSS e JS com projetos pessoais e escolares
-- 🏫 Curso Analise e Desenvolvimento de Sistemas na ETEC Jorge Street - SCS
+- Desenvolvedor Back-End | JavaScript , Php, Node.Js, Python , C# | MySQL, PostgreSQL , Prisma | 
+-  Curso Analise e Desenvolvimento de Sistemas na ETEC Jorge Street - SCS
 
 <div align="center">
  <a href="https://github.com/VictorRocha-dev">
@@ -14,14 +11,7 @@
  </a>
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="MYSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="Bongo-cat" height="150" style="border-radius:50px;" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
-</div>
-  
+
   
 ##
  <div align="center"> 
