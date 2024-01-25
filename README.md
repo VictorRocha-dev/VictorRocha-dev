@@ -1,27 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=658854&height=120&section=header"/>
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=658854&height=120&section=header)
 
-<div align="center" style="background-color: black; padding: 20px;">
- 
- <h1>Olá Eu sou Victor Rocha<a href="https://github.com/victorrocha-dev"></a></h1> 
- <h3 align="left">
-  Olá! Vamos lá, sou um entusiasta da tecnologia de 18 anos. Iniciei minha jornada acadêmica com a formação técnica em Desenvolvimento de Sistemas. Atualmente, estou envolvido no desenvolvimento pela minha agência de software, a <a href="https://api.whatsapp.com/send?phone=5511977434223">Crescre</a>. Estou também em busca de oportunidades como desenvolvedor júnior para expandir minha experiência na programação.
-</h3>
+# Olá, Eu sou Victor Rocha
 
-<h4 align="left">
-"Programar é como fazer um sanduíche: a ordem dos ingredientes importa, mas no final, é o sabor que realmente conta. E, claro, nenhum sanduíche está completo sem um toque de código condimentado!" 🥪💻😄
-</h4>
-<h3 align="left">
-🚀 Let's code!
-</h3>
-</div>
+### Olá! Vamos lá, sou um entusiasta da tecnologia de 18 anos. Iniciei minha jornada acadêmica com a formação técnica em Desenvolvimento de Sistemas. Atualmente, estou envolvido no desenvolvimento pela minha agência de software, a [Crescere](https://api.whatsapp.com/send?phone=5511977434223).Estou também em busca de oportunidades como desenvolvedor júnior para expandir minha experiência na programação.
 
+#### "Programar é como fazer um sanduíche: a ordem dos ingredientes importa, mas no final, é o sabor que realmente conta. E, claro, nenhum sanduíche está completo sem um toque de código condimentado!" 🥪💻😄
 
-<div align="center"> 
- <h2>Hard Skills: 🏋🏽 </h2><br>
- </div> 
-  <table>
-    <tr>
+### 🚀 Let's code!
 
+---
+
+## Hard Skills: 🏋🏽
+
+<table>
+  <tr>
     <td align="center" width="96">
        <a href="sql" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
        <br>Mysql</br>
@@ -38,7 +30,6 @@
        <a href="js" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="js" width="40" height="40"/> </a>
        <br>React</br>
     </td>
-
     <td align="center" width="96">
        <a href="noded" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a>
        <br>NodeJs</br>
@@ -63,34 +54,29 @@
        <a href="git" target="_blank"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40"/> </a>
        <br>GitHub</br>
     </td>
-   </tr>
-  </table>
-</div> 
+  </tr>
+</table>
 
-<div align="center"> 
- 
-![](https://raw.githubusercontent.com/VictorRocha-dev/stats/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+---
 
- 
-</div> 
+![Repos per language](https://raw.githubusercontent.com/VictorRocha-dev/stats/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
-<div align="center"> 
- <h2>Contacts: 👀 </h2><br>
- <a href="https://api.whatsapp.com/send?phone=5511964420162" target="_blank"><img align="center" alt="wpp" height="30" width="30" src="https://www.svgrepo.com/show/452133/whatsapp.svg"></a>
+---
 
-  <a href="mailto:vtrcvictorrocha3322@gmail.com" target="_blank"><img align="center" alt="email" height="30" width="30" src="https://www.svgrepo.com/show/452213/gmail.svg"></a>
-
-  <a href="https://www.linkedin.com/in/victorrocha-dev/" target="_blank"><img align="center" alt="linkedin" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135925928-32dab723-cd9f-4b40-aa16-2397ff1221b3.png"></a>
-  
-  <a href="https://www.instagram.com/vsr_vitao/" target="_blank"><img align="center" alt="insta" height="30" width="30" src="https://user-images.githubusercontent.com/52077278/135925755-413332a2-0141-4a84-bf74-8fbc05f02734.png"></a><br>
+## Contato: 👀
 
 
-</div><br>
+[![WhatsApp](https://www.svgrepo.com/show/452133/whatsapp.svg)](https://api.whatsapp.com/send?phone=5511964420162)
+[![Email](https://www.svgrepo.com/show/452213/gmail.svg)](mailto:vtrcvictorrocha3322@gmail.com)
+[![LinkedIn](https://user-images.githubusercontent.com/52077278/135925928-32dab723-cd9f-4b40-aa16-2397ff1221b3.png)](https://www.linkedin.com/in/victorrocha-dev/)
+[![Instagram](https://user-images.githubusercontent.com/52077278/135925755-413332a2-0141-4a84-bf74-8fbc05f02734.png)](https://www.instagram.com/vsr_vitao/)
 
-<div align="center">
- 
-  ![](https://raw.githubusercontent.com/VictorRocha-dev/stats/master/profile-summary-card-output/github_dark/0-profile-details.svg)
-   
-</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=658854&height=120&section=footer"/>
+
+---
+
+![Profile Details](https://raw.githubusercontent.com/VictorRocha-dev/stats/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+---
+
+![Profile Footer](https://capsule-render.vercel.app/api?type=waving&color=658854&height=120&section=footer)
