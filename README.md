@@ -2,7 +2,7 @@
 
 # Olá, Eu sou Victor Rocha
 
-### Olá! Vamos lá, sou um entusiasta da tecnologia de 18 anos. Iniciei minha jornada acadêmica com a formação técnica em Desenvolvimento de Sistemas. Atualmente, estou envolvido no desenvolvimento pela minha agência de software, a [Crescere](https://api.whatsapp.com/send?phone=5511977434223).Estou também em busca de oportunidades como desenvolvedor júnior para expandir minha experiência na programação.
+### Olá! Vamos lá, sou um entusiasta da tecnologia de 18 anos. Iniciei minha jornada acadêmica com a formação técnica em Desenvolvimento de Sistemas. Atualmente, estou envolvido no desenvolvimento pela minha agência de software, a [Crescere](https://api.whatsapp.com/send?phone=5511977434223). Estou também em busca de oportunidades como desenvolvedor júnior para expandir minha experiência na programação.
 
 #### "Programar é como fazer um sanduíche: a ordem dos ingredientes importa, mas no final, é o sabor que realmente conta. E, claro, nenhum sanduíche está completo sem um toque de código condimentado!" 🥪💻😄
 
